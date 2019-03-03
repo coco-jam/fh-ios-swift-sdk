@@ -458,7 +458,7 @@
 			inputPaths = (
 				"${SRCROOT}/Pods/Target Support Files/Pods-FeedHenry-FeedHenryTests/Pods-FeedHenry-FeedHenryTests-frameworks.sh",
 				"${BUILT_PRODUCTS_DIR}/AeroGearHttp/AeroGearHttp.framework",
-				"${BUILT_PRODUCTS_DIR}/AeroGearPush-Swift/AeroGearPush.framework",
+				"${BUILT_PRODUCTS_DIR}/AeroGearPush-Sw/AeroGearPush.framework",
 				"${BUILT_PRODUCTS_DIR}/ReachabilitySwift/Reachability.framework",
 				"${BUILT_PRODUCTS_DIR}/OCMock/OCMock.framework",
 				"${BUILT_PRODUCTS_DIR}/OHHTTPStubs/OHHTTPStubs.framework",

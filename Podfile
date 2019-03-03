@@ -6,7 +6,7 @@ use_frameworks!
 
 target 'FeedHenry' do
 	pod 'AeroGearHttp', '2.0.0'
-	pod 'AeroGearPush-Swift', :git => 'git@github.com:coco-jam/aerogear-ios-push.git', :branch => 'master'
+	pod 'AeroGearPush-Sw', :git => 'git@github.com:coco-jam/aerogear-ios-push.git', :branch => 'master'
 	pod 'ReachabilitySwift', '4.1.0'
 
 	target 'FeedHenryTests' do
