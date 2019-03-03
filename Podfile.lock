@@ -1,6 +1,6 @@
 PODS:
   - AeroGearHttp (2.0.0)
-  - AeroGearPush-Sw (3.0.6)
+  - AeroGearPush-Sw (3.0.7)
   - OCMock (3.3.1)
   - OHHTTPStubs (5.2.2):
     - OHHTTPStubs/Default (= 5.2.2)
@@ -21,7 +21,7 @@ PODS:
 
 DEPENDENCIES:
   - AeroGearHttp (= 2.0.0)
-  - AeroGearPush-Sw (= 3.0.6)
+  - AeroGearPush-Sw (= 3.0.7)
   - OCMock (= 3.3.1)
   - OHHTTPStubs (= 5.2.2)
   - OHHTTPStubs/Swift (= 5.2.2)
