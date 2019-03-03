@@ -226,7 +226,7 @@ SWIFT_CLASS("_TtC9FeedHenry19OAuthViewController")
 /// Override to deal with error.
 - (void)webView:(UIWebView * _Nonnull)webView didFailLoadWithError:(NSError * _Nonnull)error;
 /// Override to retrieve auth token and store it.
-- (BOOL)webView:(UIWebView * _Nonnull)webView shouldStartLoadWithRequest:(NSURLRequest * _Nonnull)request navigationType:(UIWebViewNavigationType)navigationType SWIFT_WARN_UNUSED_RESULT;
+- (BOOL)webView:(UIWebView * _Nonnull)webView shouldStartLoadWithRequest:(NSURLRequest * _Nonnull)request navigationType:(UIWebView.NavigationType)navigationType SWIFT_WARN_UNUSED_RESULT;
 /// Override for logging purpose.
 - (void)webViewDidStartLoad:(UIWebView * _Nonnull)webView;
 /// Override to close the view on success.
