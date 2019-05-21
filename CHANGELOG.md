@@ -1,5 +1,8 @@
 # CHANGELOG - FeedHenry iOS SDK
 
+## 6.2.1 - 2019-05-21
+* fix compilation error, header file should match the default xcode build setting configuration SWIFT_OBJC_INTERFACE_HEADER_NAME = "$(SWIFT_MODULE_NAME)-Swift.h"
+
 ## 6.2.0 - 2019-02-28
 * RHMAP-22020: Allow SDK to work with new default Xcode 10 build system
 
